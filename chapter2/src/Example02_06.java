@@ -6,6 +6,7 @@ public class Example02_06 {
 
     public Example02_06() { // constrator method
     }
+        
 
     public static void main(String[] args) {
         String info;

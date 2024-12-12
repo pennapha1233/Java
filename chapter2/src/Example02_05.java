@@ -27,6 +27,7 @@ public class Example02_05 {
         System.out.println(", Value ascii : " + (byte) varChar);
         System.out.print("value ascii : " + 68);
         System.out.println(", value char : " + (char) 68);
+
     }
     
 }
