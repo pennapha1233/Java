@@ -6,6 +6,6 @@ public class TestComparision {
         System.out.println(" x > y = " + (x > y));
         System.out.println(" x >= y = " + (x >= y));
         System.out.println(" x < y = " + (x < y));
-        System.out.println(" x <= y = " (x <= y))
+        System.out.println(" x <= y = " + (x  <= y));
     }
 }
