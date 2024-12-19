@@ -16,7 +16,7 @@ public class Example3_3 {
             min = num2;
         else
             min = num3;
-            System.out.println("minimum value : " + min);
+            System.out.println("Minimum value : " + min);
             scanner.close();
     }
     
