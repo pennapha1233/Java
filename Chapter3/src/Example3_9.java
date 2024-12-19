@@ -18,7 +18,7 @@ public class Example3_9 {
             if (count % PER_LINE == 0)
                 System.out.println("\t" + num);
             else
-                System.out.println("\t" + num);
+                System.out.print("\t" + num);
         }
         System.out.println();
         DecimalFormat twoDigit = new DecimalFormat("0.00");
